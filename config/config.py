@@ -12,7 +12,7 @@ API_HASH = getenv("API_HASH", "93b4c2a84dd605f3a32103518c26fcb6")
 
 BOT_TOKEN = getenv("BOT_TOKEN", "5980173402:AAGv14MCaqOwg3sxbQQs-oD2ltmsDrt6dbY")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Resso:resso@cluster0.b0t57gi.mongodb.net/?retryWrites=true&w=majority")
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001701768647"))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝙍𝙀𝙎𝙎𝙊 𝙈𝙐𝙎𝙄𝘾")
 
